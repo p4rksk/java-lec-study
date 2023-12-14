@@ -12,7 +12,7 @@ public class Factorial {
         n = scan.nextInt();
 
         for(int i =1; i<=n; i++)
-            fact = fact * i;
+            fact *=  i;// 곱하기도 +처럼 줄여서 쓸 수 있음.
 
         System.out.printf("%d!은 %d입니다. \n", n, fact);
 
