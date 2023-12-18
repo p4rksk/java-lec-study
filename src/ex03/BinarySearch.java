@@ -41,5 +41,3 @@ public class BinarySearch {
         System.out.println("시간복잡도 : " + (Math.log(N) / Math.log(2)));
     }
 }
-
-
