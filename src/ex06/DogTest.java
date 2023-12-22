@@ -1,4 +1,4 @@
-package ex05;
+package ex06;
 
 class Animal{
     int age;

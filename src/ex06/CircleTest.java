@@ -1,4 +1,4 @@
-package ex05;
+package ex06;
 
 class Shape {
     int x,y;
