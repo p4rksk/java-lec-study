@@ -9,7 +9,8 @@ public class CopyEx03 {
 
         //filter Stream은 컬렉션에서 지원
         List<Integer> newList = list.stream().filter(i -> i < 3).toList();
+        //.to list는 list의 저장한는 문법
 
         newList.stream().forEach(i-> System.out.println(i));
-    }
+    }   //출력하는데 forEach()사용
 }
