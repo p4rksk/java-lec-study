@@ -1,6 +1,5 @@
-package ex14.exaple1;
+package ex14.example1;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 //Data Transfer Object

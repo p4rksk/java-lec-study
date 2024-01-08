@@ -1,7 +1,6 @@
-package ex14.exaple1;
+package ex14.example1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class CopyEx01 {

@@ -1,4 +1,4 @@
-package ex14.exaple1;
+package ex14.example1;
 
 class User {
     private int id;
