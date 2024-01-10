@@ -16,7 +16,7 @@ public class Server {
             Socket socket = serverSocket.accept();
             // 소켓 연결 완료됨
 
-            // 버퍼 만들기 (recevied)
+            // 버퍼 만들기 (received)
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(socket.getInputStream())
             );
