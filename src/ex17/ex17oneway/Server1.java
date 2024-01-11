@@ -1,4 +1,4 @@
-package ex17oneway;
+package ex17.ex17oneway;
 
 import java.io.IOException;
 import java.io.BufferedReader;

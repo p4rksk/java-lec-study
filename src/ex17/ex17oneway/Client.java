@@ -1,10 +1,9 @@
-package ex17oneway;
+package ex17.ex17oneway;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
-import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
 //요청하는자:클라이언트가 된다.
